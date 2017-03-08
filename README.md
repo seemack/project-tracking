@@ -19,7 +19,7 @@ Topic | Folder Location
 Doco | G:\CTRHS\H2N\docs
 Manuscripts | G:\CTRHS\H2N\ms
 Chris's Stuff | H:\Documents\H2N\stuff
-~Deprecated~ | ~G:\CTRHS\Deleteme~
+~~Deprecated~~ | ~~G:\CTRHS\Deleteme~~
 
 ## Emojis
 Hey, why not?
